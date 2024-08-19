@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\Alex\Desktop\СП_Лр6\KeyDemo\KeyDemo.CPP">
+    <ClCompile Include="KeyDemo.CPP">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

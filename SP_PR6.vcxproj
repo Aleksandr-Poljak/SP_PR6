@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\Alex\Desktop\СП_Лр6\KeyDemo\KeyDemo.CPP" />
+    <ClCompile Include="KeyDemo.CPP" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
